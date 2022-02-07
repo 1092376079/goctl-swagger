@@ -9,3 +9,5 @@ require (
 	go.uber.org/automaxprocs v1.4.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be
 )
+
+replace github.com/tal-tech/go-zero@v1.3.0 => github.com/tal-tech/go-zero v1.2.4
